@@ -1,6 +1,6 @@
 {
   "name": "plan-to-lark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auto-upload Claude Code plans to Lark/Feishu Docs whenever ExitPlanMode fires.",
   "author": {
     "name": "klaus-xu"
