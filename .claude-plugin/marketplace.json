@@ -9,7 +9,7 @@
       "name": "plan-to-lark",
       "source": "./",
       "description": "Upload Claude Code plan files to Lark/Feishu Docs on ExitPlanMode.",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "category": "productivity",
       "tags": ["lark", "feishu", "hooks", "plan-mode"]
     }

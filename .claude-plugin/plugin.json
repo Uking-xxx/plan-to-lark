@@ -1,11 +1,10 @@
 {
   "name": "plan-to-lark",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Auto-upload Claude Code plans to Lark/Feishu Docs whenever ExitPlanMode fires.",
   "author": {
     "name": "klaus-xu"
   },
   "homepage": "https://github.com/Uking-xxx/plan-to-lark",
-  "keywords": ["lark", "feishu", "plan-mode", "hooks"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["lark", "feishu", "plan-mode", "hooks"]
 }
