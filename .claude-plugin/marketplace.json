@@ -1,0 +1,17 @@
+{
+  "name": "plan-to-lark",
+  "owner": {
+    "name": "徐运放"
+  },
+  "description": "Personal marketplace shipping the plan-to-lark plugin.",
+  "plugins": [
+    {
+      "name": "plan-to-lark",
+      "source": "./",
+      "description": "Upload Claude Code plan files to Lark/Feishu Docs on ExitPlanMode.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["lark", "feishu", "hooks", "plan-mode"]
+    }
+  ]
+}

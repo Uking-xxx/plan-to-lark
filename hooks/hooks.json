@@ -1,0 +1,13 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "ExitPlanMode",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "${CLAUDE_PLUGIN_ROOT}/scripts/plan-to-lark.sh"
+        }
+      ]
+    }
+  ]
+}

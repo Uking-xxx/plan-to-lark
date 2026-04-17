@@ -1,0 +1,10 @@
+{
+  "name": "plan-to-lark",
+  "version": "0.1.0",
+  "description": "Auto-upload Claude Code plans to Lark/Feishu Docs whenever ExitPlanMode fires.",
+  "author": {
+    "name": "徐运放"
+  },
+  "homepage": "https://github.com/Uking-xxx/plan-to-lark",
+  "keywords": ["lark", "feishu", "plan-mode", "hooks"]
+}
